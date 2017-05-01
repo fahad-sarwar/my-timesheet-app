@@ -6,3 +6,6 @@
 /App/App.iOS/obj/iPhone/Debug
 /packages
 /packages
+/App/App/bin/Debug
+/App/App.Android/bin/Debug
+/App/App.Android/obj/Debug
