@@ -21,9 +21,9 @@ namespace App
             {
                 Children =
                 {
-                    new NavigationPage(new ItemsPage())
+                    new NavigationPage(new AddEntry())
                     {
-                        Title = "Browse",
+                        Title = "Add Entry",
                         Icon = Device.OnPlatform("tab_feed.png",null,null)
                     },
                     new NavigationPage(new AboutPage())
